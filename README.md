@@ -1,4 +1,9 @@
-activator-akka-scala-seed
-=========================
+Akka Camel Sample
+=================
 
-A minimal seed template for an Akka with Scala build 
+## 実行
+
+```
+cd akka-camel-sample
+sbt run
+```
